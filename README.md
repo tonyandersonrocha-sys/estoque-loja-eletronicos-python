@@ -1,0 +1,2 @@
+# estoque-loja-eletronicos-python
+Sistema de controle de estoque em Python com persistência em arquivo
